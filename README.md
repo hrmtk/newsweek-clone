@@ -1,4 +1,4 @@
-![Example screenshot](https://github.com/hrmtk/tnw-clone/blob/master/images/Screenshot_newsweek.png)
+![Example screenshot](https://github.com/hrmtk/newsweek-clone/blob/master/images/Screenshot_newsweek.png)
 
 ## The Next Web clone
 > This project was created for practicing using Bootstrap in HTML and CSS.\
